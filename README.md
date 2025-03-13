@@ -35,7 +35,7 @@ Bot do Telegram
 
         /start: Mensagem de boas-vindas e instruções iniciais.
 
-#Como Executar
+# Como Executar
 
 Pré-requisitos
 
